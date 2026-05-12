@@ -9,7 +9,6 @@
         +---------------------- x
 
 
-# Lawrence Garba (laws2020)
 
 Data Analyst, R Developer, and Open-Source Builder from Nigeria 🇳🇬
 
